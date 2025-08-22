@@ -3,7 +3,7 @@
   <img src="https://github.com/theparidhisharma/theparidhisharma/blob/main/assets/banner.gif" alt="Profile Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Paridhi Sharma</h1>
+<h1 align="center">Hi, I'm Paridhi Sharma</h1>
 <h3 align="center">CS Undergrad @ IGDTUW | Full-Stack Developer | UI/UX Designer | ML Explorer</h3>
 
 ---
@@ -55,4 +55,7 @@
 
 ### 🎲 Fun Corner: Snakes & Ladders
 <p align="center">
-  <img src="https://github.com/thepa
+  <img src="[https://github.com/thepa
+](https://platane.github.io/snk/)>
+    </p>
+    
