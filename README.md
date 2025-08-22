@@ -55,7 +55,17 @@
 
 ### 🎲 Fun Corner: Snakes & Ladders
 <p align="center">
-  <img src="[https://github.com/thepa
-](https://platane.github.io/snk/)>
-    </p>
-    
+  <img src="https://github.com/theparidhisharma/theparidhisharma/blob/main/assets/snakes-and-ladders.gif" width="600px"/>
+</p>
+<p align="center">Climb the ladder of learning, dodge the snakes of bugs 🐍🪜</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/paridhi-sharma-013721207"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/theparidhisharma"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+⭐️ From [theparidhisharma](https://github.com/theparidhisharma)
