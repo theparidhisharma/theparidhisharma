@@ -61,7 +61,8 @@
 </p>
 
 ---
-![Visitor Map](https://profile-counter.glitch.me/theparidhisharma/count.svg)
+<!-- Clean badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=theparidhisharma&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-
+---
 ⭐️ From [theparidhisharma](https://github.com/theparidhisharma)
