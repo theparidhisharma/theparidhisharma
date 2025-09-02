@@ -47,9 +47,7 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/theparidhisharma/theparidhisharma/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+![snake gif](https://github.com/theparidhisharma/theparidhisharma/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
