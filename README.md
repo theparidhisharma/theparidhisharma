@@ -46,8 +46,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/theparidhisharma/theparidhisharma/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake Light](https://raw.githubusercontent.com/theparidhisharma/theparidhisharma/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake Dark](https://raw.githubusercontent.com/theparidhisharma/theparidhisharma/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
