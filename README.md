@@ -60,4 +60,8 @@
   <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
+---
+![Visitor Map](https://profile-counter.glitch.me/theparidhisharma/count.svg)
+
+
 ⭐️ From [theparidhisharma](https://github.com/theparidhisharma)
