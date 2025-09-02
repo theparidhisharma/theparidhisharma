@@ -12,7 +12,7 @@
 - 🎓 3rd Semester **Computer Science Student @ IGDTUW**
 - 💻 Love building **scalable apps** (React + Tailwind + Java + Spring Boot + Kafka)
 - 🧠 Exploring **Machine Learning & Cybersecurity**
-- 📝 Blogger: [solutionforwaste](https://solutionforwaste.wordpress.com/) | [justmywrites](https://justmywritesblog.wordpress.com/)  
+- 📝 Blogger: [mythicalmysteries](mythicalmysteries.wordpress.com) | [justmywrites](https://justmywritesblog.wordpress.com/)  
 - 🌱 Currently learning **Kafka pipelines & backend system design**
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/paridhi-sharma-013721207/)  
 
@@ -50,14 +50,6 @@
 <p align="center">
   <img src="https://github.com/theparidhisharma/theparidhisharma/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
----
-
-### 🎲 Fun Corner: Snakes & Ladders
-<p align="center">
-  <img src="https://github.com/theparidhisharma/theparidhisharma/blob/main/assets/snakes-and-ladders.gif" width="600px"/>
-</p>
-<p align="center">Climb the ladder of learning, dodge the snakes of bugs 🐍🪜</p>
 
 ---
 
