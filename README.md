@@ -64,4 +64,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=theparidhisharma&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ---
-⭐️ From [Paridhi Sharma]([https://github.com/theparidhisharma](https://www.linkedin.com/in/theparidhisharma/))
+⭐️ From ![Paridhi Sharma]([https://github.com/theparidhisharma](https://www.linkedin.com/in/theparidhisharma/))
