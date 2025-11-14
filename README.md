@@ -12,7 +12,7 @@
 - 🎓 3rd Semester **Computer Science Student @ IGDTUW**
 - 💻 Love building **scalable apps** (React + Tailwind + Java + Spring Boot + Kafka)
 - 🧠 Exploring **Machine Learning & Cybersecurity**
-- 📝 Blogger: [mythicalmysteries](mythicalmysteries.wordpress.com) | [justmywrites](https://justmywritesblog.wordpress.com/)  
+- 📝 Blogger:[justmywrites](https://justmywritesblog.wordpress.com/)  
 - 🌱 Currently learning **Kafka pipelines & backend system design**
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/paridhi-sharma-013721207/)  
 
@@ -56,8 +56,7 @@
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/paridhi-sharma-013721207"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/theparidhisharma"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:paridhi0203sharma@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
