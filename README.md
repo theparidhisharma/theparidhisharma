@@ -1,121 +1,130 @@
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/theparidhisharma/theparidhisharma/blob/main/assets/banner.gif" alt="Profile Banner" />
+  <img src="https://github.com/theparidhisharma/theparidhisharma/blob/main/assets/banner.gif" alt="banner" />
 </p>
 
 <h1 align="center">Paridhi Sharma</h1>
-<h3 align="center">
-Computer Science Undergraduate @ IGDTUW <br/>
-Backend-First Software Engineer · Full-Stack Developer · UI/UX Thinker
-</h3>
+
+<p align="center">
+  Software Engineer (Backend-First) · Full-Stack Developer  
+  <br/>
+  B.Tech CSE @ IGDTUW
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paridhi-sharma-013721207/">LinkedIn</a> ·
+  <a href="https://cresia.in">Cresia</a> ·
+  <a href="https://justmywritesblog.wordpress.com/">Blog</a> ·
+  <a href="mailto:paridhi0203sharma@gmail.com">Email</a>
+</p>
 
 ---
 
-## About Me
+## Summary
 
-I am a **B.Tech CSE undergraduate at IGDTUW** with a strong inclination towards **backend systems, distributed architectures, and real-world product engineering**.
+Backend-focused software engineer with hands-on experience building **production-style systems**, **event-driven architectures**, and **end-to-end web applications**.
 
-I prefer building **end-to-end systems** — from clean interfaces to scalable backends — and learning by shipping production-style projects rather than isolated demos.
-
-**Current focus**
-- Backend & distributed systems (Java, Spring Boot, Kafka)
-- Event-driven architectures
-- Full-stack product development
-- Practical ML-powered tools
-
-Blog: https://justmywritesblog.wordpress.com  
-LinkedIn: https://www.linkedin.com/in/paridhi-sharma-013721207/
+Strong fundamentals in **Java, Spring Boot, Kafka, and system design**, with the ability to own features from **API design to frontend delivery**. Comfortable working in ambiguous problem spaces and translating requirements into scalable solutions.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages**  
 Java · Python · TypeScript · JavaScript · SQL  
 
-**Backend**  
-Spring Boot · Kafka · Node.js · REST APIs · Docker  
+**Backend & Systems**  
+Spring Boot · Kafka · Node.js · REST APIs · Event-Driven Architecture · Docker  
 
 **Frontend**  
-React · Tailwind CSS · HTML · CSS  
+React · Tailwind CSS · Responsive Design  
 
-**Tools**  
-Git · GitHub · MySQL · Figma  
+**Databases & Tools**  
+MySQL · Git · GitHub · Figma  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,tailwind,spring,nodejs,kafka,mysql,docker,git,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,react,tailwind,spring,nodejs,kafka,mysql,docker,git,figma" />
 </p>
 
 ---
 
-## Featured Projects (Curated)
+## Experience & Projects
 
-### RetargetIQ — Event-Driven Microservices System  
-**Java · Spring Boot · Kafka · Docker**  
-https://github.com/theparidhisharma/RetargetIQ  
+### Cresia — Software Engineer / Co-Founder  
+🌐 https://cresia.in  
 
-A production-style backend system simulating **real-world retargeting pipelines** using Kafka.  
-Focuses on:
-- Event streaming & asynchronous communication
-- Modular microservices architecture
-- Scalable backend design
+Founder-led engineering studio delivering full-stack products for startups and small businesses.
+
+**Responsibilities & Impact**
+- Designed and built **end-to-end web applications** (frontend, backend, deployment)
+- Owned **system architecture decisions** under real-world constraints
+- Implemented **REST APIs**, authentication flows, and data models
+- Balanced performance, maintainability, and delivery timelines
+
+This work reflects **real engineering ownership**, not academic projects.
 
 ---
 
-### AutoIQ — Intelligent TypeScript System  
-**TypeScript**  
-https://github.com/theparidhisharma/AutoIQ  
+### RetargetIQ — Event-Driven Microservices System  
+**Java · Spring Boot · Kafka · Docker**  
+🔗 https://github.com/theparidhisharma/RetargetIQ  
 
-An experimental project exploring **agent-style reasoning and automation workflows**, built to understand intelligent system design beyond basic CRUD apps.
+- Designed a **Kafka-based event streaming pipeline** simulating retargeting workflows
+- Implemented loosely-coupled microservices with asynchronous communication
+- Focused on scalability, fault tolerance, and clean service boundaries
 
 ---
 
 ### GoodCall — Full-Stack Application  
 **TypeScript · React**  
-fullstack: https://github.com/theparidhisharma/GoodCall  
+Frontend: https://github.com/theparidhisharma/GoodCall_Frontend  
+Backend: https://github.com/theparidhisharma/GoodCall  
 
-A complete full-stack product with frontend and backend separation, focused on real-world flow design and system integration.
+- Built a complete full-stack product with clear frontend/backend separation
+- Designed APIs to support real user flows
+- Implemented UI with focus on clarity and usability
+
+---
+
+### AutoIQ — Intelligent System Prototype  
+**TypeScript**  
+🔗 https://github.com/theparidhisharma/AutoIQ  
+
+- Explored agent-style workflows and automation logic
+- Focused on system structure rather than surface-level features
+
+---
+
+### ATS GradeIT — Resume Analysis Tool  
+**Python · NLP**  
+🔗 https://github.com/theparidhisharma/ATS-GradeIT  
+
+- Built a resume parser and job-fit scoring system
+- Applied NLP techniques to extract structured insights from documents
 
 ---
 
 ### Student Portal (Enhanced)  
-**React · Tailwind · Vercel**  
-Live: https://student-portal-navy-six.vercel.app/  
+**React · Tailwind**  
+🌐 https://student-portal-navy-six.vercel.app/  
 
-A modern student portal featuring:
-- GPA dashboard
-- API directory
-- Dark / light mode
-- Clean, responsive UI
+- Developed a responsive student portal with dashboards and theming
+- Prioritized user experience and component reusability
 
 ---
 
-### ATS GradeIT — Resume Parser & Job-Fit Scorer  
-**Python · NLP**  
-https://github.com/theparidhisharma/ATS-GradeIT  
+## Engineering Principles
 
-A resume analysis tool that parses documents and scores candidates based on job relevance using NLP techniques.
-
----
-
-### Portfolio Website  
-**JavaScript · UI/UX Focused**  
-https://github.com/theparidhisharma/portfolio  
-
-My personal portfolio showcasing projects, design thinking, and frontend polish.
+- Write code that is **readable and maintainable**
+- Design systems with **clear ownership and boundaries**
+- Prefer simple, scalable solutions over over-engineering
+- Optimize for long-term correctness, not shortcuts
 
 ---
 
-### Vibe Matcher Recommender (AI Prototype)  
-**Python · ML**  
-https://github.com/theparidhisharma/Vibe_Matcher_Recommender  
+## 🐍 Contribution Activity
 
-An experimental ML prototype matching “vibes” using similarity and embeddings — built to explore applied AI concepts.
-
----
-
-## 🐍 Contribution Snake
-
+![Snake Light](https://raw.githubusercontent.com/theparidhisharma/theparidhisharma/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake Dark](https://raw.githubusercontent.com/theparidhisharma/theparidhisharma/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
@@ -131,6 +140,6 @@ An experimental ML prototype matching “vibes” using similarity and embedding
   </a>
 </p>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=theparidhisharma&label=Profile%20Views&color=0e75b6&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theparidhisharma&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
