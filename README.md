@@ -72,8 +72,7 @@ An experimental project exploring **agent-style reasoning and automation workflo
 
 ### GoodCall — Full-Stack Application  
 **TypeScript · React**  
-Frontend: https://github.com/theparidhisharma/GoodCall_Frontend  
-Backend: https://github.com/theparidhisharma/GoodCall  
+fullstack: https://github.com/theparidhisharma/GoodCall  
 
 A complete full-stack product with frontend and backend separation, focused on real-world flow design and system integration.
 
