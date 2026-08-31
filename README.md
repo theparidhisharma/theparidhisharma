@@ -18,6 +18,18 @@ Building elegant systems that scale beautifully :)
 
 </div>
 
+## First and foremost, these are all my deployed works:
+
+- [Cresia](https://cresia.in)
+- [Portfolio](https://paridhisharma.in)
+- [AutoIQ](https://theparidhisharma.github.io/AutoIQ/)
+- [Student Portal](https://student-portal-dnu9csdhq-paridhi-sharmaaas-projects.vercel.app/)
+- [Chemistry Booster](https://chemistry-booster-website.vercel.app/)
+- [Cosmic Nexus](https://cosmic-nexus-seven.vercel.app/)
+- [Polaris](https://polaris-dun-three.vercel.app/)
+- [Codotion](https://codotion.vercel.app/)
+- [Crowd Flow](https://crowd-flow-neon.vercel.app/)
+
 ## 🌸 About Me
 
 ```javascript
